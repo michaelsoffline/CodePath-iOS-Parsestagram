@@ -24,3 +24,7 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 ![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/73570343/136891682-5fddb14d-9f75-43de-9076-025eccf66917.gif)
+
+Signing in and posting:
+
+![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/73570343/137029833-83b3e0e6-32db-4727-9798-09956fdf9a26.gif)
